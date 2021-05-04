@@ -105,14 +105,14 @@ const localeValues: Locale = {
       },
       string: {
         len: '${label} moet ${len} karakters lang zijn',
-        min: '${label} moet minstens ${min} karakters lang zijn',
-        max: '${label} mag maximum ${max} karakters lang zijn',
+        min: '${label} moet minimaal ${min} karakters lang zijn',
+        max: '${label} mag maximaal ${max} karakters lang zijn',
         range: '${label} moet tussen ${min}-${max} karakters lang zijn',
       },
       number: {
         len: '${label} moet gelijk zijn aan ${len}',
-        min: '${label} moet minstens ${min} zijn',
-        max: '${label} mag maximum ${max} zijn',
+        min: '${label} moet minimaal ${min} zijn',
+        max: '${label} mag maximaal ${max} zijn',
         range: '${label} moet tussen ${min}-${max} liggen',
       },
       array: {
