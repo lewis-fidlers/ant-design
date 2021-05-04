@@ -4,7 +4,6 @@ import { PickerLocale } from '../generatePicker';
 
 // Merge into a locale object
 const locale: PickerLocale = {
-const locale: PickerLocale = {
   lang: {
     monthPlaceholder: 'Selecteer maand',
     placeholder: 'Selecteer datum',
